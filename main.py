@@ -1,5 +1,6 @@
 import itertools
 import os
+import re
 from dotenv import load_dotenv
 from atproto import Client
 from google import genai
@@ -24,16 +25,14 @@ def cliente_gemini(fedd):
     )
     return interation
 
-def limpiar_texto(texto: str) -> str:
-    """Aplica tratamientos al texto: elimina URLs, emojis y espacios extra."""
+def limpiar_texto(texto):
     texto_sin_url = re.sub(r'https?://\S+|www\.\S+', '', texto)
 
     texto_limpio = re.sub(r'[^\w\s,.:;!?ñÑáéíóúÁÉÍÓÚ-]', '', texto_sin_url)
 
     texto_final = " ".join(texto_limpio.split())
 
-def obtener_timeline(client: Client, actor: str, limit: int = 10) -> list[str]:
-    """Obtener el feed de un perfil y devuelve una lista con el textos limpios."""
+def obtener_timeline(client, actor, limit = 10):
 
     feed = client.get_author_feed(actor=actor, limit=limit)
     textos_procesados = []
