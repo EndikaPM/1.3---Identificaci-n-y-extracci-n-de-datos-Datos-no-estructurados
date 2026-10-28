@@ -31,6 +31,8 @@ def limpiar_texto(texto):
     texto_limpio = re.sub(r'[^\w\s,.:;!?ñÑáéíóúÁÉÍÓÚ-]', '', texto_sin_url)
 
     texto_final = " ".join(texto_limpio.split())
+    
+    return texto_final
 
 def obtener_timeline(client, actor, limit = 10):
 
@@ -38,12 +40,10 @@ def obtener_timeline(client, actor, limit = 10):
     textos_procesados = []
 
     for item in feed.feed:
-        texto_original = item.post.record.text
-
         
+        texto_original = item.post.record.text
         texto_tratado = limpiar_texto(texto_original)
 
-        
         if texto_tratado:
             textos_procesados.append(texto_tratado)
 
