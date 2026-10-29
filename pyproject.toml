@@ -8,4 +8,5 @@ dependencies = [
     "atproto>=0.0.73",
     "google-genai>=2.33.0",
     "load-dotenv>=0.1.0",
+    "pymongo>=4.19.0",
 ]
