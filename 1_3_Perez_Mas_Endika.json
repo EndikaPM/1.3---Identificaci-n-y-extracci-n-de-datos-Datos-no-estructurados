@@ -1,0 +1,189 @@
+[
+    {
+        "_id": "6ae495eb64efce09f75e2c2d",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3sro3lrh22",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 \u00daLTIMA HORA | La Guardia Civil detiene en Picanya al presunto fundador y principal impulsor de Blocus en Espa\u00f1a",
+        "texto_limpio": "\u00daLTIMA HORA La Guardia Civil detiene en Picanya al presunto fundador y principal impulsor de Blocus en Espa\u00f1a",
+        "fecha_creacion": "2026-10-30T12:46:26+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.367000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c2e",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3rwy57lo2t",
+        "autor": "publico.es",
+        "texto_original": "La Comunidad de Madrid denuncia al exdelegado del Gobierno en Madrid por prevaricaci\u00f3n administrativa por no desmantelar la acampada de Sol \n\ndiario.publico.es/odt\u2026  ",
+        "texto_limpio": "La Comunidad de Madrid denuncia al exdelegado del Gobierno en Madrid por prevaricaci\u00f3n administrativa por no desmantelar la acampada de Sol diario.publico.esodt",
+        "fecha_creacion": "2026-10-30T12:31:31+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.367000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c2f",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3qa73igw2z",
+        "autor": "publico.es",
+        "texto_original": "Feij\u00f3o acusa a Puente de \"echar la culpa\" a un operador y le recuerdan cuando \u00e9l se\u00f1al\u00f3 el \"fallo humano\" en Angrois \n\nV\u00eda @tremending.bsky.social \ndiario.publico.es/qm9\u2026  ",
+        "texto_limpio": "Feij\u00f3o acusa a Puente de echar la culpa a un operador y le recuerdan cuando \u00e9l se\u00f1al\u00f3 el fallo humano en Angrois V\u00eda tremending.bsky.social diario.publico.esqm9",
+        "fecha_creacion": "2026-10-30T12:00:53+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c30",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3ozykgbs24",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | \u00d3scar Puente, sobre un posible fallo humano: \"Cuando los sistemas fallan es el ser humano el que entra a controlar el entorno. \u00bfQuiere esto decir que el ser humano opera sin auxilio t\u00e9cnico? No\"",
+        "texto_limpio": "DIRECTO \u00d3scar Puente, sobre un posible fallo humano: Cuando los sistemas fallan es el ser humano el que entra a controlar el entorno. Quiere esto decir que el ser humano opera sin auxilio t\u00e9cnico? No",
+        "fecha_creacion": "2026-10-30T11:39:31.659Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c31",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3ojwvjtf2g",
+        "autor": "publico.es",
+        "texto_original": "OPINI\u00d3N | \u201cEl desgaste presidencial est\u00e1 penetrando en territorios que parec\u00edan inmunes al rechazo a Trump\u201d, por Ruth Ferrero @ruthferrero.bsky.social\n \ndiario.publico.es/3e3\u2026  ",
+        "texto_limpio": "OPINI\u00d3N El desgaste presidencial est\u00e1 penetrando en territorios que parec\u00edan inmunes al rechazo a Trump, por Ruth Ferrero ruthferrero.bsky.social diario.publico.es3e3",
+        "fecha_creacion": "2026-10-30T11:30:32+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c32",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3oikolik26",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | \u00d3scar Puente, sobre el centro de control en Atocha: \"En ese momento operaba en circunstancias de absoluta normalidad y contaba con 16 controladores en sala\"",
+        "texto_limpio": "DIRECTO \u00d3scar Puente, sobre el centro de control en Atocha: En ese momento operaba en circunstancias de absoluta normalidad y contaba con 16 controladores en sala",
+        "fecha_creacion": "2026-10-30T11:29:46.690Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c33",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3nzwhrcc2c",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | \u00d3scar Puente, ante los medios de comunicaci\u00f3n: \"Espa\u00f1a es un pa\u00eds que opta por compatibilizar la prestaci\u00f3n del servicio con las obras de reforma o mejora de todas las l\u00edneas\"",
+        "texto_limpio": "DIRECTO \u00d3scar Puente, ante los medios de comunicaci\u00f3n: Espa\u00f1a es un pa\u00eds que opta por compatibilizar la prestaci\u00f3n del servicio con las obras de reforma o mejora de todas las l\u00edneas",
+        "fecha_creacion": "2026-10-30T11:21:35.733Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c34",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3nnj7ywk2c",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | \u00d3scar Puente, sobre el sistema LZB: \"Es un medio de seguridad tan s\u00f3lido y tan fiable como el RTMS\"",
+        "texto_limpio": "DIRECTO \u00d3scar Puente, sobre el sistema LZB: Es un medio de seguridad tan s\u00f3lido y tan fiable como el RTMS",
+        "fecha_creacion": "2026-10-30T11:14:39.195Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c35",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3n6vetrs2h",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34DIRECTO | \u00d3scar Puente: \"Por el momento, los indicios apuntan a que lo ocurrido se debe a un fallo en el centro de control de mando de Adif\"",
+        "texto_limpio": "DIRECTO \u00d3scar Puente: Por el momento, los indicios apuntan a que lo ocurrido se debe a un fallo en el centro de control de mando de Adif",
+        "fecha_creacion": "2026-10-30T11:06:28.620Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c36",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3mtmcrh52z",
+        "autor": "publico.es",
+        "texto_original": "\u00d3scar Puente da este viernes una rueda de prensa y comparecer\u00e1 el martes 3 en la Diputaci\u00f3n Permanente del Congreso entre cr\u00edticas que provienen no solo de la derecha \n \n\u270d\ufe0f Por @miguelmunozort.bsky.social\n\ndiario.publico.es/tqz\u2026  ",
+        "texto_limpio": "\u00d3scar Puente da este viernes una rueda de prensa y comparecer\u00e1 el martes 3 en la Diputaci\u00f3n Permanente del Congreso entre cr\u00edticas que provienen no solo de la derecha Por miguelmunozort.bsky.social diario.publico.estqz",
+        "fecha_creacion": "2026-10-30T11:00:09+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c37",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3l5psmdc2g",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | Sigue la comparecencia de \u00d3scar Puente para dar explicaciones del accidente de Urda",
+        "texto_limpio": "DIRECTO Sigue la comparecencia de \u00d3scar Puente para dar explicaciones del accidente de Urda",
+        "fecha_creacion": "2026-10-30T10:30:01+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c38",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3jqqjg4h2l",
+        "autor": "publico.es",
+        "texto_original": "\u2757El operario de Adif que orden\u00f3 al AVE del accidente en Toledo reanudar la marcha se niega a declarar ante la Guardia Civil",
+        "texto_limpio": "El operario de Adif que orden\u00f3 al AVE del accidente en Toledo reanudar la marcha se niega a declarar ante la Guardia Civil",
+        "fecha_creacion": "2026-10-30T10:04:52+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c39",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3j7rsx4k23",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | Pedro S\u00e1nchez, sobre el accidente en Urda: \"No es asumible para un pa\u00eds como Espa\u00f1a sufrir dos accidentes de estas caracter\u00edsticas y de esta magnitud en un a\u00f1o\"",
+        "texto_limpio": "DIRECTO Pedro S\u00e1nchez, sobre el accidente en Urda: No es asumible para un pa\u00eds como Espa\u00f1a sufrir dos accidentes de estas caracter\u00edsticas y de esta magnitud en un a\u00f1o",
+        "fecha_creacion": "2026-10-30T09:55:23.475Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c3a",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3iquxu4223",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34DIRECTO | Pedro S\u00e1nchez: \"Entendemos y comprendemos la ansiedad por saber cu\u00e1l es el futuro de las personas que hoy permanecen desaparecidas\"",
+        "texto_limpio": "DIRECTO Pedro S\u00e1nchez: Entendemos y comprendemos la ansiedad por saber cu\u00e1l es el futuro de las personas que hoy permanecen desaparecidas",
+        "fecha_creacion": "2026-10-30T09:47:03.465Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c3b",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3ihdokvk2g",
+        "autor": "publico.es",
+        "texto_original": "OPINI\u00d3N | \u201cBasta una aver\u00eda para que la seguridad deje de descansar en los automatismos y pase a depender del telefonazo\u201d, por Pablo Batalla @pablobatalla.bsky.social \n \ndiario.publico.es/r51\u2026  ",
+        "texto_limpio": "OPINI\u00d3N Basta una aver\u00eda para que la seguridad deje de descansar en los automatismos y pase a depender del telefonazo, por Pablo Batalla pablobatalla.bsky.social diario.publico.esr51",
+        "fecha_creacion": "2026-10-30T09:41:43+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c3c",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3id2wqkc23",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | Emiliano Garc\u00eda-Page, tras la reuni\u00f3n del Cecopi, confirma que por el momento hay 69 fallecidos",
+        "texto_limpio": "DIRECTO Emiliano Garc\u00eda-Page, tras la reuni\u00f3n del Cecopi, confirma que por el momento hay 69 fallecidos",
+        "fecha_creacion": "2026-10-30T09:39:19.957Z",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c3d",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3gojdlhg22",
+        "autor": "publico.es",
+        "texto_original": "\ud83d\udd34 DIRECTO | Mejora el estado de los cuatro heridos m\u00e1s cr\u00edticos. Sigue la \u00faltima hora sobre el accidente de trenes en Urda (Toledo)",
+        "texto_limpio": "DIRECTO Mejora el estado de los cuatro heridos m\u00e1s cr\u00edticos. Sigue la \u00faltima hora sobre el accidente de trenes en Urda Toledo",
+        "fecha_creacion": "2026-10-30T09:09:56+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c3e",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3exapqdv2b",
+        "autor": "publico.es",
+        "texto_original": "\ud83c\udfa5 Largas colas en varios hospitales espa\u00f1oles, autobuses y centros de transfusi\u00f3n para donar sangre tras la tragedia en Urda (Toledo)",
+        "texto_limpio": "Largas colas en varios hospitales espa\u00f1oles, autobuses y centros de transfusi\u00f3n para donar sangre tras la tragedia en Urda Toledo",
+        "fecha_creacion": "2026-10-30T08:38:59+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c3f",
+        "uri_post": "at://did:plc:obruk6nipsroeivgkqwpowgt/app.bsky.feed.post/3mz3dkgcrc52b",
+        "autor": "publico.es",
+        "texto_original": "\u2757La inflaci\u00f3n se mantiene en el 4,9 % en octubre y sigue en la tasa m\u00e1s alta desde febrero de 2023",
+        "texto_limpio": "La inflaci\u00f3n se mantiene en el 4,9 en octubre y sigue en la tasa m\u00e1s alta desde febrero de 2023",
+        "fecha_creacion": "2026-10-30T08:13:57+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae495eb64efce09f75e2c40",
+        "uri_post": "at://did:plc:3l3bji4ykmtufoz4cqhitqht/app.bsky.feed.post/3mz3d6uxm6e2q",
+        "autor": "publico.es",
+        "texto_original": "\u00bfPor qu\u00e9 le tenemos miedo a las cosas inofensivas? As\u00ed fue el experimento del peque\u00f1o Albert\r\n\r\n\u270d Por Javier Mercadal",
+        "texto_limpio": "Por qu\u00e9 le tenemos miedo a las cosas inofensivas? As\u00ed fue el experimento del peque\u00f1o Albert Por Javier Mercadal",
+        "fecha_creacion": "2026-10-30T08:07:30+00:00",
+        "fecha_captura": "2026-10-30 14:04:43.368000"
+    },
+    {
+        "_id": "6ae497e199c97dd72e9a31d1",
+        "autor": "publico.es",
+        "total_posts_analizados": 20,
+        "analisis_llm": "Esta cuenta pertenece al diario digital español **Público** (@publico.es).\n\n**De qué trata la cuenta:**\n\nLa cuenta difunde noticias de última hora, información de actualidad, directos y artículos de opinión sobre la actualidad política, social y económica de España e internacional, funcionando como un canal de difusión informativo de su medio de comunicación.\n\n**Temas principales:**\n\n1. **Actualidad política nacional:** Declaraciones, cruces de acusaciones y comparecencias de líderes políticos (como Pedro Sánchez, Alberto Núñez Feijóo, Óscar Puente o Emiliano García-Page) e instituciones (Gobierno, Comunidad de Madrid, Guardia Civil).\n\n2. **Sucesos y accidentes graves:** Cobertura en directo y seguimiento de tragedias y accidentes de gran impacto, con especial atención al accidente ferroviario en Urda (Toledo), sus causas (fallos en Adif, declaraciones de operadores y ministros) y la gestión de emergencias.\n\n3. **Economía:** Información sobre indicadores económicos como la inflación y datos macroeconómicos.\n\n4. **Opinión y análisis:** Artículos de opinión sobre política nacional e internacional (como la situación de Donald Trump) y reportajes de divulgación científica o social.",
+        "fecha_analisis": "2026-10-30T14:13:05.443Z"
+    }
+]

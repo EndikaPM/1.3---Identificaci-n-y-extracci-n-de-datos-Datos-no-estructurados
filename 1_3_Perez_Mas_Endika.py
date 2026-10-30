@@ -22,14 +22,14 @@ def conectar_bluesky():
 def conectar_mongo():
     
     client_mongo = MongoClient("mongodb://root:root@localhost:27017")
-    
     db = client_mongo['bluesky_db']
-    
+
     print("Conexión con MongoDB exitosa!!!")
     return db
 
 def cliente_gemini(textos_feed, actor):
-    cliente_gemi = genai.Client()
+    api_key = os.environ.get('GEMINI_API_KEY')
+    cliente_gemi = genai.Client(api_key=api_key)
 
     feed_unificado = "\n- ".join(textos_feed)
 
@@ -39,12 +39,12 @@ def cliente_gemini(textos_feed, actor):
         f"- {feed_unificado}"
     )
 
-    response = cliente_gemi.models.generate_content(
-        model="gemini-2.5-flash", 
-        contents=prompt
-    )
+    interaction = cliente_gemi.interactions.create(
+        model="gemini-3.5-flash-lite",
+        input=prompt
+        )
                         
-    return response.text
+    return interaction.output_text
 
 def limpiar_texto(texto):
     texto_sin_url = re.sub(r'https?://\S+|www\.\S+', '', texto)
@@ -85,7 +85,7 @@ def obtener_timeline(client, db_mongo ,actor, limit = 10):
     return textos_procesados
 
 def guardar_analisis(db_mongo, actor, publicaciones, analisis):
-    nombre_archivo = f"analisis_{actor.replace('.', '_')}.txt"
+    nombre_archivo = "1_3_Perez_Mas_Endika_analisis.txt"
 
     with open(nombre_archivo, "w", encoding="utf-8") as f:
         f.write(f"ANÁLISIS DE LA CUENTA @{actor}\n")
@@ -114,9 +114,9 @@ def main():
         db_mongo = conectar_mongo()
 
         actor = "publico.es"
-        limit = 20
+        #limit = 20
 
-        publicaciones = obtener_timeline(cliente_bsky, db_mongo, actor=actor, limit=limit)
+        publicaciones = obtener_timeline(cliente_bsky, db_mongo, actor=actor)
 
         if publicaciones:
             print("Enviado a Gemini para analizar...")
