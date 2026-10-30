@@ -14,17 +14,15 @@
 
  5. [Guía de Uso](#-guía-de-uso)
 
- 6. [Pruebas (Testing)](#-pruebas-testing)
+ 6. [Estructura del Proyecto](#-estructura-del-proyecto)
 
- 7. [Estructura del Proyecto](#-estructura-del-proyecto)
+ 7. [Cómo Contribuir](#-cómo-contribuir-contributing)
 
- 8. [Cómo Contribuir](#-cómo-contribuir-contributing)
+ 8. [Autores y Agradecimientos](#-autores-y-agradecimientos)
 
- 9. [Autores y Agradecimientos](#-autores-y-agradecimientos)
+9. [Licencia](#-licencia)
 
-10. [Licencia](#-licencia)
-
-## ✨ Características Principales (Features)
+## ✨ Características Principales
 
 * **Conexión Segura con AT Protocol:** Autenticación en Bluesky mediante variables de entorno y contraseñas de aplicación (*App Passwords*).
 
@@ -123,9 +121,6 @@ BSKY_PASSWORD="tu_contraseña_de_aplicacion"
 # API Key de Google Gemini
 GEMINI_API_KEY="tu_gemini_api_key"
 
-# URI de MongoDB (Opcional, por defecto usa mongodb://root:root@localhost:27017)
-MONGO_URI="mongodb://root:root@localhost:27017"
-
 ```
 
 > **Nota:** Para mayor seguridad en Bluesky, genera una *App Password* desde **Ajustes > Avanzado > Contraseñas de aplicación**.
@@ -181,20 +176,6 @@ print(interaction.output_text)
 
 5. Inserción del informe en la colección `analisis_cuentas` de MongoDB.
 
-## 🧪 Pruebas (Testing)
-
-Actualmente, el proyecto cuenta con verificaciones de conexión e integraciones directas en el script principal. Para verificar el correcto funcionamiento de cada componente de forma individual:
-
-1. **Probar la conexión a MongoDB:**
-
-   ```
-   mongosh "mongodb://root:root@localhost:27017"
-   
-   ```
-
-2. **Probar la extracción sin enviar a la LLM:**
-   Comenta la función `cliente_gemini()` dentro de `main.py` y ejecuta el script para verificar que los datos lleguen a la base de datos local.
-
 ## 📁 Estructura del Proyecto
 
 ```
@@ -208,7 +189,7 @@ Actualmente, el proyecto cuenta con verificaciones de conexión e integraciones 
 
 ```
 
-## 🤝 Cómo Contribuir (Contributing)
+## 🤝 Cómo Contribuir
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto:
 
@@ -224,7 +205,7 @@ Actualmente, el proyecto cuenta con verificaciones de conexión e integraciones 
 
 ## 👥 Autores y Agradecimientos
 
-* **Desarrollador / Alumno:** Proyecto realizado en el módulo de *Identificación y Extracción de Datos No Estructurados*.
+* **Desarrollador / Alumno:** Proyecto realizado en el módulo de *Sistemas de Bid Data* por *Endika Pérez Mas*.
 
 * **Herramientas de terceros:**
 
